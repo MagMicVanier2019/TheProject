@@ -1,4 +1,4 @@
-# TheProject
+# TheProjects
 The School Project
 -------------------------------------------------------------------------------
                              About Me
